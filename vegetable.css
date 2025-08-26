@@ -24,6 +24,7 @@ hr
 /*Carrot*/
 h1
 {
+  font-family: "roboto", serif;
   text-align: center;
 }
 .lol
@@ -35,6 +36,7 @@ h1
 /*Cabbage*/
 h2
 {
+  font-family: "roboto", serif;
   text-align: center;
 }
 .phpechoHelloWorld
@@ -85,6 +87,7 @@ figcaption
 /*loolololooloollooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo carrot cabbage, banana*/
 .carrot
 {
+  font-family: "roboto", serif;
   text-align: center;
 }
 /*loolololooloollooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo carrot cabbage, banana*/
