@@ -25,7 +25,7 @@ hr
 /*Carrot*/
 h1
 {
-  font-family: 'Comfortaa';
+  font-family: 'Open Sans';
   text-align: center;
 }
 .lol
@@ -37,7 +37,7 @@ h1
 /*Cabbage*/
 h2
 {
-  font-family: 'Comfortaa';
+  font-family: 'Open Sans';
   text-align: center;
 }
 .phpechoHelloWorld
@@ -54,7 +54,6 @@ h2
 body
 {
   background-color: #FFFFFF;
-  font-family: 'Comfortaa';
 }
 /*loolololooloollooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo carrot cabbage, banana*/
 
@@ -83,6 +82,7 @@ body
 figcaption
 {
   text-align: center;
+  font-family: 'Comfortaa';
 }
 /*loolololooloollooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo carrot cabbage, banana*/
 /*loolololooloollooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo carrot cabbage, banana*/
@@ -151,4 +151,5 @@ figcaption
   text-align: center;
   display: flex;
   color: blue;
+  font-family: 'Comfortaa';
 }
