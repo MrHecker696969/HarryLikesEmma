@@ -1,4 +1,4 @@
-a = "gay"
+a = "a simp."
 print("Harry is", a)
 print("Harry is", a)
 print("Harry is", a)
