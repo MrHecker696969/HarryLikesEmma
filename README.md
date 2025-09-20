@@ -8,13 +8,13 @@ Used a nested loop of 43 and 251 to print "QXX[␦I[^XP" 10793 times through 4 c
 [macos](https://formulae.brew.sh/formula/brainfuck)
 ```bash
 $ brew install brainfuck
-$ brainfuck wtf.bf
+$ brainfuck lol-optimised.bf
 ```
 
 [windows](https://github.com/aapzu/bf-cli)
 ```bash
-npx bf-cli wtf.bf
+npx bf-cli lol-optimised.bf
 
 npm i -g bf-cli
-bf-cli wtf.bf
+bf-cli lol-optimised.bf
 ```
